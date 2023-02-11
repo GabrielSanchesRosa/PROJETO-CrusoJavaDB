@@ -10,10 +10,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import javax.crypto.ShortBufferException;
-
-import com.mysql.cj.x.protobuf.MysqlxExpr.Identifier;
-
 import db.DB;
 import db.DbException;
 import model.dao.SellerDao;
